@@ -1,0 +1,3 @@
+[submodule "zzyycc"]
+	path = zzyycc
+	url = git@github.com:injetlee/Python.git
